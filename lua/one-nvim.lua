@@ -178,6 +178,6 @@ return setmetatable(highlite, {
 		end
 
 		-- Set the terminal highlight colors.
-		self:highlight_terminal(terminal_ansi_colors)
+		-- self:highlight_terminal(terminal_ansi_colors)
 	end
 })
